@@ -20,8 +20,7 @@ body {
 	border-radius: 8px;
 	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 	overflow: hidden;
-	width: 300px;
-    height: 300px;
+	width: 700px;
 	max-width: 100%;
 }
 
@@ -177,8 +176,8 @@ form .indicator span.active:before{
   content: '';
   top: 0;
   left: 0;
-  height: 70%;
-  width: 70%;
+  height: 100%;
+  width: 100%;
   border-radius: 5px;
 }
 .indicator span.weak:before{
